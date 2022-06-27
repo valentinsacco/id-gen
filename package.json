@@ -1,0 +1,12 @@
+{
+  "name": "hex-id-generator",
+  "version": "1.0.0",
+  "description": "Generate random id with hex characters",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "author": "Valentin Sacco",
+  "license": "ISC"
+}
